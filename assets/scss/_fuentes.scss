@@ -1,0 +1,38 @@
+$fuenteprincipal:'Montserrat',sans-serif;
+$tipofuente:400;
+$fuentesecundaria:'Raleway',sans-serif;
+$tipofuentesecundaria:200;
+
+
+.nav__texto--fuente{
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    @media only screen and (max-width:767px)
+    { font-size:15px;}
+}
+.texto__frase1--fuente{
+	font-family:$fuenteprincipal;
+	font-weight:$tipofuente;
+}
+.texto__frase2--fuente{
+	font-family:$fuentesecundaria;
+	font-weight:$tipofuentesecundaria;
+}
+.navegador__texto--fuente{
+	font-family: $fuentesecundaria;
+    font-weight: $tipofuentesecundaria;
+    
+}
+.navegadorFooter__texto--fuente{
+	@extend .navegador__texto--fuente;
+
+}
+
+.principal__texto--fuente h3{
+	@extend .navegador__texto--fuente;
+}
+.nosotros__texto--fuente h2{
+	font-family: $fuentesecundaria;
+    font-weight: $tipofuentesecundaria;
+}

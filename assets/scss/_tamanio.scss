@@ -1,0 +1,79 @@
+$frase1:80px;
+$frase2:50px;
+$textNavegador:22px;
+$paddingNav:20px;
+
+@mixin tamanio($width, $heigth)
+	{heigth:$heigth;
+	 width:$width;
+
+	}
+
+.imagen__tamanio{
+	width:433px;
+	heigth:577px;
+	margin:25px;
+}
+.img__mobile--tamanio img{
+	@media only screen and (max-width:767px)
+	{
+		width:330px;
+		heigth:450px;
+		margin:15px;
+		
+	}
+}
+.logo__img--tamanio{
+	@include tamanio (200px,200px);
+	@media only screen and (max-width:767px)
+	{
+		width:100px;
+		heigth:100px;
+	}
+}
+
+.texto__frase1--tamanio{
+	font-size:$frase1;
+	@media only screen and (max-width:767px){
+	font-size:35px;
+	}
+}
+.texto__frase2--tamanio{
+	font-size:$frase2;
+	@media only screen and (max-width:767px){
+	font-size:20px;
+	}
+}
+.navegador{
+	padding: $paddingNav;
+}
+.navegador__texto--tamanio{
+	font-size:$textNavegador;
+	@media only screen and (max-width:767px){
+	font-size:15px;
+	}
+}
+
+/*APLICANDO EXTEND Y ALGUN OPERADOR PARA FUTURAS MODIFICACIONES*/
+
+.navegadorFooter__texto--tamanio h5{			
+	@extend .navegador__texto--tamanio;
+}
+.navegadorFooter{
+	padding:$paddingNav*1.2;
+	@media only screen and (max-width:767px){
+	padding:$paddingNav;
+	}
+}
+.principal__texto--tamanio h3{
+	font-size:35px;
+	@media only screen and (max-width:767px){
+	font-size:20px;
+	}
+}
+.nosotros__texto--tamanio h2{
+	font-size:30px;
+	@media only screen and (max-width:767px){
+	font-size:20px;
+	}
+}

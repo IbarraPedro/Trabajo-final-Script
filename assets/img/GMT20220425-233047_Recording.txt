@@ -1,0 +1,211 @@
+01:21:11	[Tutor] Francisco Garcia Mendez:	Recién logro entrar.... Hola a todos :) :)
+01:21:17	valentino oviedo montaña:	buenas noches
+01:21:25	[Tutor] Ernesto Ferreyra:	Hola Fran
+01:21:49	[Tutor] Francisco Garcia Mendez:	Hola 😍 puede ser que algunos tarden en entrar, está medio colapsada la plataforma
+01:22:34	Gaspar Gonzalez:	sisi
+01:24:05	Isabel Achurra:	meow
+01:24:44	[TUTOR] HELMER VILLARREAL:	Suele suceder a esta hora esa lentitud de la plataforma
+01:28:25	Julian Graells:	profe como haces para que te aparexca el console log en la terminal?
+01:28:39	Isabel Achurra:	con node programa.js
+01:28:44	Julian Graells:	porque aunque escriba lo mismo no me aparece y tira error
+01:29:07	Isabel Achurra:	fíjate que estés en el mismo lugar que esté tu js
+01:29:37	[tutora] Ailín Nakaganeku:	con node más el nombre de tu archivo Juli
+01:29:58	Julian Graells:	sisi pero aunque escriba node nombre.js me dice error
+01:30:03	guillecabana@hotmail.com:	let cena ='pizza'  console.log( cena?? 'pasta')
+01:30:04	Nelson Andrada:	como figura en la terminal del profe
+01:30:08	Isabel Achurra:	y que hayas guardado antes de tratarlo de abrir igual
+01:30:31	Isabel Achurra:	también fíjate en cuál terminal usas
+01:31:53	valentino oviedo montaña:	profe, es buena practica utilizar los condicionales ternarios?? En dh me dijeron que te agiliza mucho el código pero se presta para la confusión
+01:31:59	[tutora] Ailín Nakaganeku:	Si podes enviame el error y lo vemos.
+01:32:17	Cristian Alessandria:	Hay grupo de WhatsApp ?
+01:32:26	Rodrigo García:	En lugar de utilizar un ternario anidado con muchos ifs, es mejor utilizar un switch?
+01:33:02	[tutora] Ailín Nakaganeku:	Si Valen se utiliza muucho el operador ternario.
+01:33:27	Eneas Baroni:	link del whatsapphttps://chat.whatsapp.com/CvNBAieeYPFHR9XKtMpr7J
+01:33:59	Cristian Alessandria:	gracias
+01:34:38	[TUTOR] HELMER VILLARREAL:	Valentino, si los ternarios ayudan mucho con la lectura de código y evita el código espagueti.  Si son muchos los casos a analizar, mas de 4 diría yo, sería buena opción el switch.
+01:35:59	Rodrigo García:	Gracias, Helmer, eso resuelve mi duda también.
+01:36:22	Elizabeth Tiñini:	profe por favor podrias minimizar donde explore..para ver un poco grande
+01:36:28	Elizabeth Tiñini:	gracias
+01:37:47	[TUTOR] HELMER VILLARREAL:	Genial Rodrigo, en React los ternarios se ocupan muchísimo, ya lo vas a ir viendo durante el curso.
+01:38:30	Gaspar Gonzalez:	sis se ve muy chica la pantalla
+01:39:01	Miguel Alejandro Varon Ramirez:	Si profe se ve muy poco
+01:39:24	{COORDINADOR} Eric Wajnrajch:	Ahí le digo cuando termine la idea del concepto
+01:41:03	Carlos Maurin:	para qué se puede usar eso?
+01:41:19	Rodrigo García:	El test y test2 son palabras que podríamos poner a consideración, no? No es necesario que sea igual a los valores del objeto.
+01:41:50	[TUTOR] HELMER VILLARREAL:	si, son solo nombres de variables.
+01:41:53	[Tutor] Ernesto Ferreyra:	claro, en esos casos no son palabras reservadas
+01:42:06	Isabel Achurra:	qué mierda estamos haciendo ahora mismso?
+01:42:28	Facundo Sargiotto:	😳
+01:43:08	[TUTOR] HELMER VILLARREAL:	Haciendo operaciones con objetos para dar ejemplos de Azúcar sintáctica.
+01:43:16	[Tutor] Francisco Garcia Mendez:	Isa porfa te pido que no evitemos esas palabras en clase :) El profe está explicando un poco de spread operator
+01:43:26	daniel de brun:	no entendí nada pero después miro de nuevo
+01:43:27	[Tutor] Francisco Garcia Mendez:	Y ahora sugar sintax como dice Helmer
+01:44:11	Nelson Andrada:	Se podría repetir el concepto de Deep matching
+01:44:12	{COORDINADOR} Eric Wajnrajch:	Como dice Fran, por favor cuidemos el vocabulario en clase
+01:44:43	Carlos Maurin:	para qué querría clonar un objeto?
+01:45:54	[Tutor] Ernesto Ferreyra:	para hacer una copia de determinada informacion y conservar los datos de la fuente original Carlos ! con los ejemplos en el transcurso de clase vamos a ver casos de usos
+01:46:11	Carlos Maurin:	gracias!
+01:46:44	Fabian Dario Ustares:	cuales serian la cambinacion de teclas para comentar varias líneas de código al mismo tiempo?
+01:46:45	Rodrigo García:	De la pregunta de Carlos Si se modifica un objeto o array sin clonar, solo referenciando, esa nueva referencia también se modifica, no?
+01:47:04	[Tutor] Gabriel Maceira Alvarez:	ALT + SHIFT + A para comentar varias lineas
+01:47:23	[Tutor] Gabriel Maceira Alvarez:	si modificas una referencia se modifica el objeto original tb, si
+01:47:56	Rodrigo García:	Gracias, Gabriel. Si sirve yo utilizo CTRL + K + C para comentar las líneas seleccionadas.
+01:48:21	Nelson Andrada:	Yo uso lo mismo Rodrigo
+01:48:23	Fabian Dario Ustares:	gracias
+01:48:44	[TUTOR] HELMER VILLARREAL:	En Js se crea la variable como const o let para almacenar la data asignada a la variable, en js como no de define el tipo es importante hacer muchas validaciones al recibir una variable(como validar si llega null o undefined o si array con o sin valor u objeto) por ese tema de type y evitar bloqueos del aplicativo, ese tema en Typescript se corrige por ser lenguaje fuertemente tipado.
+01:48:54	daniel de brun:	para comentar líneas también podes conf el visual a tu gusto
+01:49:51	Isabel Achurra:	se usa más samsung que opera ;-; yo con opera desde el win98
+01:52:43	Victor Osinaga:	usando versiones compatibles no ?
+01:53:49	Gaspar Gonzalez:	non
+01:53:56	Elias Rodriguez Assaf:	no
+01:53:56	Nelson Andrada:	no
+01:54:00	Hassan Hamze:	no entendi bien lo de polyfill
+01:54:05	Gaston De Maio:	no por mi parte
+01:54:18	Facundo Sargiotto:	entonces está bueno cargar un toque el proyecto con dependencias para la compatibilidad?
+01:54:47	[Tutor] Gabriel Maceira Alvarez:	depende de que tanto te importe que ciertos navegadores/usuarios lo puedan usar
+01:54:57	Hassan Hamze:	genial profe gracias
+01:55:09	Rodrigo García:	Todavía no tengo ninguna duda, nada más que empiece a trabajar con eso y seguro salen jaja
+01:55:12	Isabel Achurra:	es para que importes librerías que ya no son compatibles con ciertos exploradores
+01:55:43	[Tutor] Ernesto Ferreyra:	lo necesario Facu, idealmente no pero a medida que vas incorporando funcionalidades vas a necesitar de ciertas dependencias
+01:55:59	Facundo Sargiotto:	joyaaaa, gracias!
+01:58:45	[TUTOR] HELMER VILLARREAL:	En cuanto a los navegadores depende del proyecto, si es una pagina web abierta al publico que va recibir usuarios con uso de diferentes sistemas operativos y dispositivos, es necesario dar soporte a los principales navegadores en el mercado. Pero si es una aplicación cerrada para una empresa, se pueden definir con el cliente 1 o 2 navegadores para su correcto funcionamiento. Sin incluir Internet explores jajajaja
+02:03:03	[Tutor] Francisco Garcia Mendez:	Uy con esa música y el café no duermo más hahaha
+02:03:06	[Tutor] Francisco Garcia Mendez:	Vamooooos
+02:07:27	Rodrigo García:	Seguimos viendo la presentación.
+02:07:27	Frank Elian Fobello:	no se ve
+02:07:30	Julian Graells:	seguimos viendo el pp profe
+02:07:34	Matias Spina Mattera:	no se ve
+02:07:47	Frank Elian Fobello:	ahora si
+02:08:26	[tutora] Ailín Nakaganeku:	(recomendación no lo hagan en su proyecto el eject, si quieren probar el eject creense un proyecto nuevo)
+02:08:38	Cristian Alessandria:	ups
+02:08:42	[tutora] Ailín Nakaganeku:	después trae algunos dolores de cabeza
+02:09:21	{COORDINADOR} Eric Wajnrajch:	Buena aclaración de Ailin, por si alguno no leyó, no escriban ese comando en su terminal
+02:09:23	Victor Osinaga:	si se puede saber la razón Ailin ? modifica algo ?
+02:09:28	Elizabeth Tiñini:	podria por favor agrandar un poco mas la pantalla
+02:10:11	{COORDINADOR} Eric Wajnrajch:	Webpack se desliga y te deja a vos que te hagas “cargo” de la aplicación corriendo el eject
+02:10:50	[Tutor] Gabriel Maceira Alvarez:	vas a tener que manejar todo a mano, victor
+02:11:17	Victor Osinaga:	Entiendo gracias !
+02:12:23	Gaspar Gonzalez:	nono
+02:12:36	Elias Rodriguez Assaf:	hasta ahora vamos exelente
+02:16:48	Victor Osinaga:	eso es lo que tenemos que subir al host ?
+02:16:56	Facundo Sargiotto:	osea q cuando el proyecto esté terminado, para deployarlo en un server pasaríamos el build?
+02:17:12	Gaspar Gonzalez:	aaa entiendo
+02:17:14	[Tutor] Francisco Garcia Mendez:	Si Facu exacto
+02:17:50	[Tutor] Francisco Garcia Mendez:	En algunos host con sólo arrastrar la carpeta build que se crea ya se encarga de todo solito
+02:17:50	Facundo Sargiotto:	aaaah y todo lo demás de jsx es para trabajarlo en local nomás?
+02:18:15	[Tutor] Francisco Garcia Mendez:	Todo va a estar incluido, todo nuestro proyecto también
+02:18:52	Fabian Dario Ustares:	o sea que lo convierte a puro código JavaScript?
+02:18:54	Elias Rodriguez Assaf:	todo claro
+02:18:58	Gaspar Gonzalez:	todo ok
+02:19:28	[Tutor] Francisco Garcia Mendez:	Chequeen esto si quieren para ver lo que hace Babel detrás de camaras : https://babeljs.io/
+02:20:46	[Tutor] Francisco Garcia Mendez:	Si van a "Try it out" podés poner código y ver como lo transforma :) ! Prueben con un <h1> para ver que sucede <)
+02:21:42	Victor Osinaga:	transforma código  jsx a js?
+02:22:29	[Tutor] Francisco Garcia Mendez:	Mmmm no, digamos que transforma código javascript de nuevas generaciones y lo transforma en código puro javascript
+02:22:52	[Tutor] Francisco Garcia Mendez:	Básicamente permite transformar código escrito con las últimas y novedosas características de JavaScript y transformarlo en un código que sea entendido por navegadores más antiguos
+02:25:04	Elias Rodriguez Assaf:	todo claro
+02:25:08	Victor Osinaga:	👌
+02:25:17	Nelson Andrada:	ok
+02:31:13	Tomás De Los Santos:	🤯🤯
+02:31:43	Rodrigo García:	Tomando en cuenta que se toma como mala práctica hacer uso de los estilos en línea, ¿esto se comparte con React o cambia en algo?
+02:32:18	[Tutor] Ernesto Ferreyra:	si Rodri, siempre mejor usar otros archivos complementarios o en su defecto librerias CSS
+02:32:39	[Tutor] Ernesto Ferreyra:	sobre todo para que el codigo quede lo mas limpio y prolijo posible
+02:33:31	Rodrigo García:	Perfecto, gracias!
+02:33:55	Eneas Baroni:	que es mas conveniente? usar styled component o css?
+02:34:17	[Tutor] Ernesto Ferreyra:	igualmente para el proyecto tienen libertad de usar el framework de CSS que mas como les resulte. Si bien no se evalua CSS en este curso es importante que lo dejen lindo para que puedan lucirse cuando lo incorporen en sus portfolios
+02:34:17	Antonio Weber:	Profe estos códigos después nos lo deja en algún lado
+02:34:23	Nicolas Mazziotti:	tengo entendido que el styled components se usa bastante
+02:34:29	Victor Osinaga:	jsx se escribe en archivo .js ?
+02:34:44	Antonio Weber:	Bien gracias profe
+02:35:06	[Tutor] Gabriel Maceira Alvarez:	si victor, en archivo .js
+02:35:17	[Tutor] Gabriel Maceira Alvarez:	pueden usar la extensión jsx si quieren para react
+02:35:20	Eneas Baroni:	se puede usar sass?
+02:35:42	[Tutor] Gabriel Maceira Alvarez:	pueden usar sass
+02:36:04	[Tutor] Gabriel Maceira Alvarez:	css, styled components, librerías externas de estilos como Bootstrap, material ui, tailwind, etc
+02:36:31	Eneas Baroni:	y que es mas aconsejable? styled components?
+02:36:34	[Tutor] Gabriel Maceira Alvarez:	joroba
+02:36:36	Isabel Achurra:	camello
+02:36:38	Antonio Weber:	camello
+02:36:42	[Tutor] Ernesto Ferreyra:	pueden usar el que quieran pero traten de enfocarse en las nuevas funcionalidades de React que vamos a aprender en el curso !
+02:36:42	Isabel Achurra:	camello y dromedario
+02:36:55	Nelson Andrada:	Para nuestro desafío como iría organizadas las carpetas
+02:37:17	Fabian Dario Ustares:	a mi me gustan estos componentes: https://mui.com/
+02:37:26	{COORDINADOR} Eric Wajnrajch:	Como dicen los tutores, siempre traten de que la funcionalidad del sitio sea su principal objetivo en este curso. Luego tendrán tiempo para dedicarle a los estilos con mas detalle
+02:37:28	Victor Osinaga:	styles components seria como una librería como bootstrap, material ui, etc ?
+02:37:56	[Tutor] Ernesto Ferreyra:	Nelson, dentro de "components" creas una carpeta con el nombre del componente y dentro metes el componente .jsx y .css
+02:38:08	[Tutor] Gabriel Maceira Alvarez:	styled componentes te permite escribir una especie de componentes que tienen un estilo que vos definis
+02:38:20	Nelson Andrada:	Ah, gracias Ernesto
+02:38:21	[Tutor] Gabriel Maceira Alvarez:	Bootstrap, material, etc vienen con un estilo ya armado
+02:38:28	[Tutor] Gabriel Maceira Alvarez:	y podes hacer algunas modificaciones tb
+02:38:38	Leila Micaela Iglesias:	Que es más recomendable, styled components? Es lo que más se usa?
+02:39:27	Leila Micaela Iglesias:	ahh perfecto, muchas graciaas
+02:40:38	[Tutor] Gabriel Maceira Alvarez:	con esto pueden investigar algunas librerías si quieren, a ver si alguna les llama la atencion
+02:40:47	Isabel Achurra:	cuándo aprenderemos a hacer esto?
+02:40:58	Damian Katz:	se puede usar bootswatch?
+02:41:02	Isabel Achurra:	el miércoles? o a aprender haciendo?
+02:41:18	Isabel Achurra:	bootstrap no será damián jaja?
+02:41:22	[Tutor] Francisco Garcia Mendez:	Un ayudín https://blog.logrocket.com/create-responsive-navbar-react-css/
+02:41:27	Isabel Achurra:	AYUDÍN
+02:41:46	Damian Katz:	bootswath es una que trabaja con estilos de bootstrap
+02:41:54	[TUTOR] HELMER VILLARREAL:	si Damian bootswatch lo puedes usar
+02:42:13	Isabel Achurra:	ah lol, dormí
+02:42:19	Damian Katz:	https://bootswatch.com/
+02:42:22	[Tutor] Francisco Garcia Mendez:	Nosotros en nuestro proyecto vamos a solamente importar hojas de estilos css externas creadas por nosotros, y vamos a utilizar librerías externas tipo bootstrap, nada más :) No se vuelvan locos con los estilos que no evaluamos eso en este curso
+02:42:27	[Tutor] Francisco Garcia Mendez:	Practiquen CSS :)
+02:42:47	Damian Katz:	tiene como estilos agrupados con opciones para varios componenetes
+02:42:47	[TUTOR] HELMER VILLARREAL:	bootswatch es prácticamente Bootstrap con colores  personalizados
+02:43:07	Rabih Souiden:	usen snipe Tambien se puede
+02:43:09	Rabih Souiden:	con rafc
+02:43:13	Rabih Souiden:	se genera eso
+02:43:19	Martin Quiroz:	Entonces la navbar es normal con HTML y css, o tiene que ser todo renderizado por js?
+02:43:28	Alexis Sosa:	No hay detalle con ocupar .jsx en el entregable ?
+02:43:53	{COORDINADOR} Eric Wajnrajch:	No entendí la pregunta Alexis
+02:44:00	Pablo Basualdo Arcati:	si usamos boostrap ponemos import boostrap from '......'
+02:44:00	[Tutor] Francisco Garcia Mendez:	Es normal con HTML y CSS pero se renderiza como un componente, osea como una función javascript Martín
+02:44:01	Pablo Basualdo Arcati:	??
+02:44:01	[TUTOR] HELMER VILLARREAL:	Como dice el tutor francisco lo más importante es la funcionalidad, puedes usar estilos a su gusto, la recomendación de coder bootstrap
+02:44:27	Pablo Basualdo Arcati:	si usamos boostrap ponemos import boostrap from '......'????
+02:44:34	[Tutor] Gabriel Maceira Alvarez:	depende de como usen Bootstrap. busquen como usar Bootstrap con react
+02:44:42	{COORDINADOR} Eric Wajnrajch:	Pablo en la documentación oficial vas a encontrar como utilizarlo
+02:44:44	Pablo Basualdo Arcati:	oka
+02:44:44	[Tutor] Gabriel Maceira Alvarez:	pueden usarlo parecido a como hacían con HTML tradicional
+02:44:53	[Tutor] Gabriel Maceira Alvarez:	o pueden instalar react-bootstrap o algo similar
+02:45:02	Juan Ignacio Tejada:	Todo bien por ahora
+02:45:06	[Tutor] Francisco Garcia Mendez:	Si, existe bootstrap especial para React también, atenti!
+02:45:07	[Tutor] Gabriel Maceira Alvarez:	https://react-bootstrap.github.io/getting-started/introduction
+02:45:10	Victor Osinaga:	que tendríamos que subir al github ? el final compilado o no ?
+02:45:17	[Tutor] Ernesto Ferreyra:	https://www.youtube.com/watch?v=XPBniyikjek&t=179s
+02:45:27	Antonio Weber:	Nada por aqui
+02:45:29	[TUTOR] HELMER VILLARREAL:	Pablo puedes usar Rea
+02:45:36	[Tutor] Francisco Garcia Mendez:	Tenemos que actualizar lo que ya subimos en github, con los requisitos del desafío
+02:45:37	[TUTOR] HELMER VILLARREAL:	React bootrap
+02:45:38	[TUTOR] HELMER VILLARREAL:	https://react-bootstrap.github.io/
+02:45:45	[Tutor] Ernesto Ferreyra:	Video : como configurar bootstrap en React
+02:45:46	Victor Osinaga:	solo el código entonces
+02:45:46	{COORDINADOR} Eric Wajnrajch:	Van haciendo los commits actualizando desafío a desafío
+02:45:55	{COORDINADOR} Eric Wajnrajch:	Pueden crear ramas diferentes en caso de que quisieran
+02:46:01	[Tutor] Francisco Garcia Mendez:	Nooo no creen ramas jajajaja
+02:46:13	[Tutor] Francisco Garcia Mendez:	Es broma :)
+02:46:16	{COORDINADOR} Eric Wajnrajch:	Jajaja
+02:46:21	[Tutor] Francisco Garcia Mendez:	Está buenísimo crear ramas para practicar !
+02:46:27	Martin Quiroz:	Pues dudas hay muchas jaja
+02:46:27	[Tutor] Gabriel Maceira Alvarez:	si les resulta confuso el desafio tengan en cuenta que la clase que viene vemos realmente componentes
+02:46:38	[Tutor] Gabriel Maceira Alvarez:	asi que por ahí si quieren esperan al miércoles para arrancar esto
+02:46:44	[Tutor] Francisco Garcia Mendez:	Cualquier cosa estamos todos por el chat de la plataforma para darles una mano o si les quedaron dudas de la clase !
+02:46:47	Martin Quiroz:	ya que empecemos a hacerlos se verán las dudas
+02:46:57	Isabel Achurra:	si vamos a verlo el miércoles, no hay necesidad
+02:47:00	[TUTOR] HELMER VILLARREAL:	Pueden crear ramas pero en la rama master para cada entrega deben tener los commits
+02:47:06	Nelson Andrada:	Osea subimos o utilizamos nuetro proyecto creado?
+02:47:07	Antonio Weber:	Claro yo creo que una vez que metamos algo de código vamos a empezar a tener preguntas
+02:47:08	Martin Quiroz:	Ok OK
+02:47:13	Nicolas Ramella:	gracias
+02:47:42	[TUTOR] HELMER VILLARREAL:	Nelson usar el mismo repo del primera desafío, solo hacen un commit de este desafío
+02:47:47	[Tutor] Francisco Garcia Mendez:	Porfa escribannos cualquier cosita que necesitennnn
+02:48:10	[Tutor] Francisco Garcia Mendez:	Ahora es el mejor momento para romper que estamos arrancando
+02:48:14	Juan Ignacio Tejada:	Que anden bien chicos, saludos
+02:48:17	Nicolas Ramella:	gracias
+02:48:20	Nicolas Ramella:	buenas noches
+02:48:22	[Tutor] Patricio Pallua:	Buenas noches a todos
+02:48:22	Pablo Basualdo Arcati:	gracias profe!
+02:48:23	[Tutor] Ernesto Ferreyra:	buenas noches !
+02:48:24	Elias Rodriguez Assaf:	muchas gracias!! buena clase!!!!
+02:48:26	Miguel Alejandro Varon Ramirez:	buenas noches

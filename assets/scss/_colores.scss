@@ -1,0 +1,52 @@
+$fondo:rgb(240, 240, 240);
+$frasePrincipal:peru;
+$texto:rgba(255, 255, 255, 0.7);
+$navegador:rgba(47, 23, 15, 0.9);
+
+
+.fondo__pantalla--imagen1{
+	background-image:url("../img/fondo1.jpg") ;
+	background-attachment: fixed;
+    background-position: left;
+    background-size: cover;
+}
+.fondo__pantalla--imagen2{
+	background-image: url("../img/fondo2.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.nav__fondo--color{
+	background-color: $navegador;
+}
+
+.texto__frase1--color{
+	color:$frasePrincipal;
+}
+.texto__frase2--color{
+	color:$texto;
+}
+.navegador{
+	background-color: $navegador;
+}
+.nav__texto--color a{
+	color:#f6e1c5;
+}
+
+								/*UTILIZANDO UN POCO DE EXTEND*/
+
+.navegadorFooter{				
+	@extend .navegador;
+
+}
+
+.navegadorFooter__texto--color h5{
+	color: #f6e1c5;
+}
+
+.principal__texto--color h3{
+	color:$texto;
+}
+.nosotros__texto--color{
+	color:$texto;
+}

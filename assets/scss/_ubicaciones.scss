@@ -1,0 +1,94 @@
+
+.logo__img--ubicacion{
+	display: flex;
+	justify-content: center;
+	@media only screen and (max-width:767px){
+	display:flex;
+	justify-content:center;
+	}
+	
+}
+
+.texto__frase1--ubicacion{
+	text-align:left;
+	margin-top: 40px;
+	@media only screen and (max-width:767px){
+	text-align:center;
+	margin-top:15px;
+	}
+}
+.texto__frase2--ubicacion{
+	text-align:center;
+}
+.navegador__texto--ubicacion{
+	display: flex;
+	justify-content: space-around;
+	list-style-type: none;
+}
+
+/*APLICANDO EXTEND PARA FUTURAS MODIFICACIONES EN AMBOS NAVEGADORES*/
+.navegadorFooter__texto--ubicacion h5 {
+	@extend .navegador__texto--ubicacion;
+	text-align: center;
+	margin-top: 70px;
+	@media only screen and (max-width:767px){
+	margin-top:35px;
+	}
+}
+.navegadorFooter__texto--ubicacion section{
+	display:flex;
+	flex-direction: row;
+	justify-content:center;
+}
+.navegadorFooter__img--ubicacion{
+	
+	text-align:center;
+	margin-top:60px;
+	@media only screen and (max-width:767px){
+	margin-top:10px;
+	}
+}
+.navegadorFooter{
+	margin-top:10px;
+}
+.principal__texto--ubicacion h3{
+	text-align: center;
+	margin-top: 250px;
+	@media only screen and (max-width:767px){
+	margin-top:20px;
+	text-align:center;
+	}
+}
+.secundario__texto--ubicacion h3{
+	text-align: center;
+	margin-top: 150px;
+	@media only screen and (max-width:767px){
+	margin-top:20px;
+	text-align:center;
+	}
+}
+.nosotros__texto--ubicacion h2{
+	display:flex;
+	justify-content:center;
+	margin:15px;
+	@media only screen and (max-width:767px){
+	margin-top:10px;
+	text-align:center;
+	}
+}
+.institucional__video--ubicacion{
+	display:flex;
+	justify-content:center;
+	margin-bottom:15px;
+	@media only screen and (max-width:767px){
+	display:flex;
+	justify-content:center;
+	}
+}
+.formulario--ubicacion{
+	display: flex;
+	text-align:center;
+}
+.padding--carrusel{
+	margin:15px;
+}
