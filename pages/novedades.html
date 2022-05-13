@@ -18,7 +18,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,300;1,200;1,300&display=swap" rel="stylesheet">
     <!--VINCULO A NUESTRO CSS-->
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <link rel="stylesheet" href="../assets/css/estilo.css">
+    <link rel="stylesheet" href="../assets/css/votacion.css">
 
     <title>Chocolates con frases</title>
   </head>
@@ -57,7 +59,7 @@
             <div class="collapse navbar-collapse justify-content-end " id="navbarNavAltMarkup">
               <div class="navbar-nav">
                 <a class="nav-link active" href="../index.html">Home <span class="sr-only">(current)</span></a>
-                <a class="nav-link" href="nosotros.html">Nosotros</a>
+                <a class="nav-link" href="novedades.html">Novedades!</a>
                 <a class="nav-link" href="contacto.html">Contacto</a>
                 <a class="nav-link" href="empresarial.html">Empresariales</a>
                 <a class="nav-link" href="eventos.html">Eventos</a>
@@ -76,14 +78,16 @@
     <div class="container ">
       <div class="row nosotros__texto--fuente nosotros__texto--tamanio nosotros__texto--color nosotros__texto--ubicacion">
         <div class="col-lg-12 col-xs-12">
-          <h2>¿Aún no nos conocés....? Déjame mostrarte un poco más de nosotros </h2>
+          <h2>Ayudanos a decidir nuestro relleno estrella de este invierno con tú voto!!</h2>
         </div>
       </div>
     </div>
       <div class="container">
       <div class="row ">
-        <div class="col-lg-12 col-xs-12 institucional__video--ubicacion">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/12My8mBsp-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="col-lg-12 col-xs-12 ">
+
+          <div id="productos"></div>
+           
         </div>
       </div>
     </div>
@@ -122,5 +126,6 @@
  <script>
   AOS.init();
 </script>   
+<script src="../assets/js/votacion.js"></script>
   </body>
 </html>
